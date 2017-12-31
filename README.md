@@ -35,6 +35,11 @@ NumbX is a role based API for role based control. There are three roles - Client
     * Edit Users and Client.
     * Delete Users and Client.
 
+  4. Testing
+
+    * Unit Testing
+    * Integration Testing
+
 
 ## Prerequisites
 
@@ -54,6 +59,7 @@ NumbX is a role based API for role based control. There are three roles - Client
   2. Start MongoDB in the background.
   3. Launch Postman to fire requests.
   4. For Routes Documentation , fire http://localhost:3000 in browser.
+  5. Run 'npm test' for testing the application.
 
 ## Technologies Used
   
